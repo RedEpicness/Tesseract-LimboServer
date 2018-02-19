@@ -1,0 +1,5 @@
+main: me.redepicness.limbo.main
+version: 1.0
+name: LimboServer
+author: Red_Epicness
+depend: [ProtocolLib]
